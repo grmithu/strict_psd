@@ -1,0 +1,174 @@
+@media (max-width: 1199px){
+    .container{
+        width: 800px;
+    }
+    .banner-content h1 {
+        font-size: 90px;
+    }
+    .banner-content span{
+        margin: 15px 0;
+    }
+    .btn{
+        font-size: 16px;
+        padding: 10px 25px;
+        margin-top: 20px;
+    }
+    .arrow{
+        bottom: 35px;
+        font-size: 16px;
+    }
+    .aboutus-section{
+        padding: 60px 0;
+    }
+    h2{
+        font-size: 35px;
+    }
+    .aboutus-section p{
+        font-size: 18px;
+        margin-top: 20px;
+        line-height: 1.6;
+    }
+    .feature{
+        padding: 30px 20px;
+    }
+    h3{
+        font-size: 18px;
+        margin: 15px 0;
+        padding: 0 20px;
+    }
+    .contact-form{
+        width: 60%;
+    }
+}
+ 
+
+@media (max-width: 900px){
+    .container{
+        width: 700px;
+    }
+    .banner-content h1 {
+        font-size: 60px;
+    }
+    .banner-content span{
+        margin: 10px 0;
+    }
+    .banner-content  p{
+        font-size: 18px;
+    }
+    .feature{
+        padding: 20px 0;
+    }
+    .feature span{
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 40px;
+
+    }
+}
+
+@media (max-width: 800px){
+    .container{
+        width: 600px;
+    }
+    nav ul li a{
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+    .arrow{
+        display: none;
+    }
+    h2{
+        font-size: 28px;
+    }
+    .aboutus-section p{
+        font-size: 17px;
+        margin-top: 15px;
+    }
+    .col{
+        padding: 10px;
+    }
+    h3{
+        font-size: 16px;
+        margin: 14px 0;
+        padding: 0 0;
+    }
+    p{
+        font-size: 14px;
+    }
+    .contact-form{
+        width: 70%;
+    }
+}
+
+@media (max-width: 700px){
+    .container{
+        width: 100%;
+        padding: 0 20px;
+    }
+    .logo{
+        width: 100%;
+        text-align: center;
+    }
+    .logo a img{
+        width: 120px;
+    }
+    nav{
+        width: 100%;
+    }
+    nav ul{
+        justify-content: center;
+    }
+    nav ul li a{
+        padding: 18px 15px;
+    }
+    header{
+        padding: 10px 0;
+    }
+    .banner-content p{
+        font-size: 15px;
+    }
+    .banner-content h1{
+        font-size: 28px;
+    }
+    .banner-content span{
+        margin: 5px 0;
+    }
+    .btn{
+        font-size: 14px;
+        padding: 8px 20px;
+        margin-top: 14px;
+    }
+    .aboutus-section{
+        padding: 40px 30px;
+    }
+    h2{
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .aboutus-section p{
+        font-size: 15px;
+        margin-top: 15px;
+        line-height: 1.7;
+    }
+    .col{
+        width: 80%;
+        padding: 30px 15px;
+    }
+    .feature-section .flex, showcase-section .flex{
+        justify-content: center;
+    }
+    .contact-form{
+        width: 90%;
+    }
+    .copyright, .social{
+        width: 100%;
+        text-align: center;
+    }
+    .social ul{
+        justify-content: center;
+        margin-top: 20px;
+    }
+}
+
+
